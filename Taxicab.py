@@ -1,6 +1,7 @@
 # Dan Wu
 # 10/28/2020
-# Write a class named Taxicab that has three private data members,the class have an init method, get method and move x method
+# Write a class named Taxicab that has three private data members,the class have an init method, get method and move x method.
+
 class Taxicab:
     """
     Represents Taxicab shift left or right, up or down and its distance
